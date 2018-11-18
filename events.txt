@@ -1,0 +1,6 @@
+[Sign out of Hotel] 08:00
+[concurrent event] 12:30
+[Out'of'order'event] 00:00
+[Intro-to-Robotics Lecture] 06:42
+[Coffee with Jennifer] 12:30
+[J&D's wedding reception] 20:00
